@@ -4,3 +4,13 @@
 我们上线了在线演示平台：[http://139.224.234.18:5002/](http://139.224.234.18:5002/)，包含我们在CTC2021中使用的模型（CTC母语），此外也包含了二语学习者纠错和拼写纠错的demo。如下所示：
 ![image](https://user-images.githubusercontent.com/50613374/159700208-ac7b92ee-6a8d-400d-a4a4-aa61414b876e.png)
 欢迎大家试用。
+## 引用
+Bibtex：
+```
+@techreport{zhang2021ctcreport,
+  title={Technical Report of Suda-Alibaba Team on CTC-2021},
+  author={Zhang, Yue and Bao, Zuyi and Zhang, Bo and Li, Chen and Li, Jiacheng and Li, Zhenghua},
+  year={2021},
+  url = "https://github.com/HillZhang1999/CTC-Report",
+}
+```
