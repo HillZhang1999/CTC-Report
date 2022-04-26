@@ -14,3 +14,5 @@ Bibtex：
   url = "https://github.com/HillZhang1999/CTC-Report",
 }
 ```
+## 相关工作
+我们近期上传了Baseline中文纠错模型及其他相关资源，可参考[MuCGEC](https://github.com/HillZhang1999/MuCGEC)。
