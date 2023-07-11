@@ -4,7 +4,7 @@
 + 我们开源了CTC-2021评测中所搜集的语义纠错模板，请参考：[[Github](https://github.com/HillZhang1999/gec_error_template)]，[[论文](https://arxiv.org/abs/2206.11569)]
 + 我们在天池平台举办了[多参考多来源汉语学习者文本纠错评测](https://tianchi.aliyun.com/dataset/dataDetail?dataId=131328)，有丰厚的奖金和由中文信息学会颁发的获奖证书，欢迎大家参赛！
 ## 在线演示平台
-我们上线了在线演示平台：[http://139.224.234.18:5002/](http://139.224.234.18:5002/)，包含我们在CTC2021中使用的模型（CTC母语），此外也包含了二语学习者纠错和拼写纠错的demo。如下所示：
+我们上线了在线演示平台：[http://139.224.234.18:5002/](http://139.224.234.18:5002/)(expired)，包含我们在CTC2021中使用的模型（CTC母语），此外也包含了二语学习者纠错和拼写纠错的demo。如下所示：
 ![image](https://user-images.githubusercontent.com/50613374/159700208-ac7b92ee-6a8d-400d-a4a4-aa61414b876e.png)
 欢迎大家试用。
 ## 引用
